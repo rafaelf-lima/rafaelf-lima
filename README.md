@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, meu nome é Rafael
+Sou estudante de Ciência de Dados e Inteligência Artificial, além de ter estudado o Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas. Atualmente, busco desenvolver minhas habilidades em Tableau e Python, utilizando NumPy, Pandas, Matplotlib e Seaborn, principalmente. Sou um entusiasta de visualizações de dados. 
 
 <!--
 **rafaelf-lima/rafaelf-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
