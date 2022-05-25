@@ -1,17 +1,21 @@
-### Olá, meu nome é Rafael
-Atualmente, moro no Rio de Janeiro e sou estudante de Ciência de Dados e Inteligência Artificial, além de ter estudado o Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas. No momento, busco desenvolver minhas habilidades em Tableau e Python, utilizando, principalmente, NumPy, Pandas, Matplotlib e Seaborn para visualizações de dados. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelf-lima/)
+[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/rafaellima)
 
-<!--
-**rafaelf-lima/rafaelf-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, sou o Rafael!
+Atualmente, moro no Rio de Janeiro e sou estudante de Ciência de Dados e Inteligência Artificial no Ibmec. Além disso, cursei o Ensino Médio Integrado em Desenvolvimento de Sistemas entre 2018 e 2021 no Colégio Pedro II, período em que aprendi sobre C#, Banco de Dados e Desenvolvimento Web. 
 
-Here are some ideas to get you started:
+No momento, busco desenvolver habilidades na área de análise de dados em Power BI, Tableau e Python, utilizando, principalmente, NumPy e Pandas para processamento de dados e Matplotlib e Seaborn para visualização de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Informações acadêmicas
+* Bacharelado em Ciência de Dados e Inteligência Artificial - Ibmec (2022 - 2026)
+* Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas - Colégio Pedro II (2018 - 2021)
+
+### Tecnologias estudadas e usadas 
+<div style ="display: inline_block"><br/>
+    <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>    
+
+
