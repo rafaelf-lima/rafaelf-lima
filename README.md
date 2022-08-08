@@ -10,7 +10,7 @@ No momento, busco desenvolver habilidades na área de análise de dados com SQL,
 * Bacharelado em Ciência de Dados e Inteligência Artificial - Ibmec (2022 - 2026)
 * Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas - Colégio Pedro II (2018 - 2021)
 
-<img align = "left" width = "30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&layout=compact)](https://github.com/rafaelf-lima/github-readme-stats)
 
 
 
