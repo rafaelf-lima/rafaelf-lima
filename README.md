@@ -4,7 +4,7 @@
 ### Olá, sou o Rafael!
 Atualmente, moro no Rio de Janeiro e sou estudante de Ciência de Dados e Inteligência Artificial no Ibmec. Além disso, cursei o Ensino Médio Integrado em Desenvolvimento de Sistemas entre 2018 e 2021 no Colégio Pedro II, período em que aprendi sobre C#, Banco de Dados e Desenvolvimento Web. 
 
-No momento, busco desenvolver habilidades na área de análise de dados com SQL, Power BI, Tableau. Além desses citados, também utilizo Python e R através das bibliotecas NumPy, pandas e dplyr para processamento e análise de dados, e Matplotlib, Seaborn e ggplot2 para visualização de dados.
+No momento, busco desenvolver habilidades na área de análise de dados com SQL, Power BI, Tableau. Além desses citados, também utilizo Python e R através das bibliotecas NumPy, pandas, tidyr e dplyr para processamento e análise de dados, e Matplotlib, Seaborn e ggplot2 para visualização de dados.
 
 ### Informações acadêmicas
 * Bacharelado em Ciência de Dados e Inteligência Artificial - Ibmec (2022 - 2026)
