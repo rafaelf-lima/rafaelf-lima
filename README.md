@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelf-lima/)
-[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/rafaellima)
+
 
 ### Olá, sou o Rafael!
 Atualmente, moro no Rio de Janeiro e sou estudante de Ciência de Dados e Inteligência Artificial no Ibmec. Além disso, cursei o Ensino Médio Integrado em Desenvolvimento de Sistemas entre 2018 e 2021 no Colégio Pedro II, período em que aprendi sobre C#, Banco de Dados e Desenvolvimento Web. 
