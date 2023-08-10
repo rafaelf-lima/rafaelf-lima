@@ -17,6 +17,7 @@ Atualmente, preparo-me para o exame LPIC-1, também emitido pela Linux Professio
  * Linux Essentials - Linux Professional Institute (LPI)
  * Azure Fundamentals - Microsoft
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&layout=compact)
 
 ### Tecnologias estudadas e usadas: 
 <div style ="display: inline_block"><br/>
