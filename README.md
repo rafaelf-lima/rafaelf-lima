@@ -2,11 +2,9 @@
 
 
 ### Olá, sou o Rafael!
-Atualmente, moro no Rio de Janeiro e sou estudante de Ciência de Dados e Inteligência Artificial no Ibmec. Além disso, cursei o Ensino Médio Integrado em Desenvolvimento de Sistemas entre 2018 e 2021 no Colégio Pedro II, período em que aprendi sobre C#, Banco de Dados e Desenvolvimento Web. 
+Estudante da graduação de Ciência de Dados e Inteligência Artificial no Ibmec. Cursei o Ensino Médio no Colégio Pedro II, juntamente ao Curso Técnico Integrado em Desenvolvimento de Sistemas. Na graduação, já fui monitor das disciplinas de Ciência de Dados nos Negócios e também Estatística para Análise de Dados, além de ter participado do Summer Job promovido pela instituição, permitindo desenvolver competências com Python, R e Power BI na área de análise de dados. 
 
-No momento, busco desenvolver habilidades na área de administração de sistemas Linux e Windows Server, junto com features como Active Directory, virtualização e ferramentas de monitoramento. Além disso, também possuo interesse na área de Cloud Computing, principalmente com Microsoft Azure. Em 2023, obtive as certificação LPI Linux Essentials emitida pela Linux Professional Institute (LPI) e também Azure Fundamentals emitida pela Microsoft.
-
-Atualmente, preparo-me para o exame LPIC-1, também emitido pela Linux Professional Institute.  
+Atualmente, também procuro adquirir e expandir conhecimentos nas áreas de redes de computadores e administração de servidores Linux e Windows com o uso de Shell Script, ferramentas como Active Directory para Windows Server e tecnologias de virtualização e monitoramento. Além disso, possuo interesse na área de Cloud Computing, principalmente com Microsoft Azure. Em 2023, obtive as certificações Linux Essentials, emitida pela Linux Professional Institute e Microsoft Azure Fundamentals, emitida pela Microsoft. No momento, preparo-me para o exame LPIC-1, também emitido pela Linux Professional Institute. 
 
 
 ### Informações acadêmicas
