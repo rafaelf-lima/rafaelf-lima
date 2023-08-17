@@ -8,7 +8,7 @@ Atualmente, também procuro adquirir e expandir conhecimentos nas áreas de rede
 
 
 ### Informações acadêmicas
-* Bacharelado em Ciência de Dados e Inteligência Artificial - Ibmec (2022 - 2026)
+* Bacharelado em Ciência de Dados e Inteligência Artificial - Ibmec (2022 - 2025)
 * Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas - Colégio Pedro II (2018 - 2021)
 
 ### Certificações
