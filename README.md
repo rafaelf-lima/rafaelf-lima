@@ -15,7 +15,7 @@ Atualmente, também procuro adquirir e expandir conhecimentos nas áreas de rede
  * Linux Essentials - Linux Professional Institute (LPI)
  * Azure Fundamentals - Microsoft
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&layout=compact&hide=jupyter%20notebook&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&layout=compact&theme=nightowl)
 
 ### Tecnologias estudadas e usadas: 
 <div style ="display: inline_block"><br/>
