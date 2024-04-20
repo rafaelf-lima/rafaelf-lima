@@ -4,7 +4,7 @@
 ### Olá, sou o Rafael!
 Estudante da graduação de Ciência de Dados e Inteligência Artificial no Ibmec. Cursei o Ensino Médio no Colégio Pedro II, juntamente ao Curso Técnico Integrado em Desenvolvimento de Sistemas. Na graduação, já fui monitor das disciplinas de Ciência de Dados nos Negócios e Estatística para Análise de Dados, além de ter participado do Summer Job promovido pela instituição, permitindo desenvolver competências com Python, R e Power BI. 
 
-Atualmente, também procuro adquirir e expandir conhecimentos nas áreas de redes de computadores, administração de servidores Linux e Windows, Shell Scripting, Active Directory, tecnologias de virtualização e Cloud Computing. Em 2023, obtive as certificações Linux Essentials, emitida pela Linux Professional Institute, Microsoft Azure Fundamentals, emitida pela Microsoft e, no momento, preparo-me para a LPIC-1, também emitida pela Linux Professional Institute. 
+Atualmente, também procuro adquirir e expandir conhecimentos nas áreas de redes de computadores, administração de servidores Linux e Windows, Shell Scripting e Cloud Computing. Em 2023, obtive as certificações Linux Essentials, emitida pela Linux Professional Institute, Microsoft Azure Fundamentals, emitida pela Microsoft e, no momento, preparo-me para a LPIC-1, também emitida pela Linux Professional Institute. 
 
 
 ### Informações acadêmicas
