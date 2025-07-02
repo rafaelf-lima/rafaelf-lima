@@ -17,7 +17,7 @@ Atualmente, busco ampliar meus conhecimentos nas áreas de análise de dados e C
  * Azure AI Fundamentals - Microsoft (AI-900)
  * AWS Certified Cloud Practitioner - AWS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&hide=jupyter%20notebook&layout=compact&theme=nightowl)
 
 ### Tecnologias estudadas e usadas: 
 <div style ="display: inline_block"><br/>
