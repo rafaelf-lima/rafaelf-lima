@@ -2,6 +2,9 @@
 
 
 ### Olá, sou o Rafael!
+
+---
+
 Estudante da graduação de Ciência de Dados e Inteligência Artificial no Ibmec. Cursei o Ensino Médio no Colégio Pedro II, juntamente ao Curso Técnico Integrado em Desenvolvimento de Sistemas. Na graduação, já fui monitor das disciplinas de Ciência de Dados nos Negócios e Estatística para Análise de Dados, além de ter participado do Summer Job promovido pela instituição junto com a startup Easy Music School, permitindo desenvolver competências com Excel, Python, R e Power BI. 
 
 Atualmente, procuro adquirir e expandir conhecimentos nas áreas de análise de dados e cloud computing, tendo obtido as certificações AWS Certified Cloud Practitioner (AWS), Azure Fundamentals (AZ-900), Azure Data Fundamentals (DP-900) e Azure AI Fundamentals (AI-900), emitidas pela Microsoft, além da Linux Essentials, promovida pela Linux Professional Institute.
@@ -18,7 +21,13 @@ Atualmente, procuro adquirir e expandir conhecimentos nas áreas de análise de 
  * Azure Data Fundamentals - Microsoft (DP-900)
  * AWS Certified Cloud Practitioner - AWS
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&hide=jupyter%20notebook&layout=compact&theme=nightowl)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelf-lima&theme=nightowl)](https://git.io/streak-stats)
+
+---
 
 ### Tecnologias estudadas e usadas: 
 <div style ="display: inline_block"><br/>
