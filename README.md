@@ -24,7 +24,7 @@ Atualmente, procuro adquirir e expandir conhecimentos nas áreas de análise de 
 <div style ="display: inline_block"><br/>
     <img align="center" alt = "python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt = "r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white">
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>    
