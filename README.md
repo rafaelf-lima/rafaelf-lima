@@ -15,6 +15,7 @@ Atualmente, busco ampliar meus conhecimentos nas áreas de análise de dados e C
  * Linux Essentials - Linux Professional Institute (LPI)
  * Azure Fundamentals - Microsoft (AZ-900)
  * Azure AI Fundamentals - Microsoft (AI-900)
+ * Azure Data Fundamentals - Microsoft (DP-900)
  * AWS Certified Cloud Practitioner - AWS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelf-lima&hide=jupyter%20notebook&layout=compact&theme=nightowl)
