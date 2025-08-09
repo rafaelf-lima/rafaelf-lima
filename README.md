@@ -4,7 +4,7 @@
 ### Olá, sou o Rafael!
 Estudante da graduação de Ciência de Dados e Inteligência Artificial no Ibmec. Cursei o Ensino Médio no Colégio Pedro II, juntamente ao Curso Técnico Integrado em Desenvolvimento de Sistemas. Na graduação, já fui monitor das disciplinas de Ciência de Dados nos Negócios e Estatística para Análise de Dados, além de ter participado do Summer Job promovido pela instituição junto com a startup Easy Music School, permitindo desenvolver competências com Excel, Python, R e Power BI. 
 
-Atualmente, busco ampliar meus conhecimentos nas áreas de análise de dados e Cloud Computing. Em 2023, obtive as certificações Linux Essentials, emitida pela Linux Professional Institute e Microsoft Azure Fundamentals (AZ-900), emitida pela Microsoft. 
+Atualmente, procuro adquirir e expandir conhecimentos nas áreas de análise de dados e cloud computing, tendo obtido as certificações AWS Certified Cloud Practitioner (AWS), Azure Fundamentals (AZ-900), Azure Data Fundamentals (DP-900) e Azure AI Fundamentals (AI-900), emitidas pela Microsoft, além da Linux Essentials, promovida pela Linux Professional Institute.
 
 
 ### Informações acadêmicas
